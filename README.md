@@ -10,8 +10,10 @@ We will be using two different CSV files from the New York Times used in their r
 ## Data Information
 Source of datasets:
 https://github.com/nytimes/covid-19-data
+
 Mask Usage by County:
 https://github.com/nytimes/covid-19-data/blob/master/mask-use/README.md
+
 New daily cases and deaths:
 https://raw.githubusercontent.com/nytimes/covid-19-data/master/us-counties.csv
 
