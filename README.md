@@ -2,6 +2,9 @@
 
 ## About 
 This is our Cogs109 Fa2020 Final Project, contributed by Waylon Chang, Ricky Martin, Noemi Yepez, and Dan Kaliblotzky. 
+-----------------------------------------------------------------------------------------------------------------------
+
+This project is further developed by Waylon Chang as his personal proeject, taking a deeper dive into PCA and multiple linear regression
 
 ## Project Purpose
 In this project, we explore how mask usages affect the rate of covid-19 apread across California counties. 
